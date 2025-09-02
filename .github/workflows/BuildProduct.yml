@@ -12,7 +12,7 @@ jobs:
   build:
     name: Build wxPython
     runs-on: macos-14
-    if: github.repository_owner == 'laobamac'
+    if: github.repository_owner == 'DaniHasReal'
 
     env:
       # GitHub Information
